@@ -1,0 +1,23 @@
+{
+  "name": "updown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annoeul/UpDown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annoeul/UpDown/issues"
+  },
+  "homepage": "https://github.com/annoeul/UpDown#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
